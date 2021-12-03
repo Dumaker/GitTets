@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("123456");
         System.out.println("123456789");
         System.out.println("githubb");
+        System.out.println("pull githubb");
     }
 }
